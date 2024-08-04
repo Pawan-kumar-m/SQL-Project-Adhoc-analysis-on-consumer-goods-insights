@@ -20,6 +20,6 @@
 3. **Ranking and partitioning**: Window functions like `RANK()` and `PARTITION BY` allow for ranking products within each division based on total sold quantities.
 4. **Filtering and sorting results**: Applying `WHERE` and `ORDER BY` clauses helps in filtering and sorting the final output as per the requirements.
 
-By working through the SQL queries provided in the `SQL PROJECT: ADHOC ANALYSIS ON CONSUMER GOODS INSIGHTS OF ATLIQ HARDWARE` file, I gained valuable experience in solving real-world business problems using SQL. The queries cover various aspects of data analysis, from calculating product rankings to generating reports for specific customer segments and time periods. Practicing these queries has improved my understanding of SQL concepts and their practical applications in a business context.
+By working through the SQL queries provided in the [SQL PROJECT: ADHOC ANALYSIS ON CONSUMER GOODS INSIGHTS OF ATLIQ HARDWARE](https://github.com/Pawan-kumar-m/SQL-Project-Adhoc-analysis-on-consumer-goods-insights/blob/main/SQL%20PROJECT%20Consumer%20goods%20analysis.pdf) file, I gained valuable experience in solving real-world business problems using SQL. The queries cover various aspects of data analysis, from calculating product rankings to generating reports for specific customer segments and time periods. Practicing these queries has improved my understanding of SQL concepts and their practical applications in a business context.
 
 This Project was given by [codbasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)

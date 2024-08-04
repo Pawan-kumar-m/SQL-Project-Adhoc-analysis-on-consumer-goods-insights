@@ -1,0 +1,1 @@
+# SQL-Project-Adhoc-analysis-on-consumer-goods-insights
